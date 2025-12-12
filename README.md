@@ -19,6 +19,11 @@ This is a backend service built with **FastAPI** and **MongoDB** that supports c
     * Create, Read, Update, and Delete organizations.
     * "Update" includes logic to rename the underlying tenant collection while preserving data.
 
+## Architecture Diagram
+
+<img width="1108" height="650" alt="Backend Architecture" src="https://github.com/user-attachments/assets/489eeffe-c295-45fe-8299-e25bd247220b" />
+
+
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
